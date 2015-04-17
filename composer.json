@@ -1,12 +1,12 @@
 {
-    "name": "blevins/laravel-assets",
+    "name": "procoru/laravel-assets",
     "version": "0.1.4",
     "description": "A super simple script and stylesheet management package for Laravel 4.",
     "keywords": ["laravel", "assets", "javascript", "css"],
     "authors": [
         {
-            "name": "Graham Blevins",
-            "email": "hgblevins@gmail.com"
+            "name": "Vyacheslav Shindin",
+            "email": "vyacheslav.shindin@gmail.com"
         }
     ],
     "require": {
